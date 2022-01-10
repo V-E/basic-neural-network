@@ -1,0 +1,3 @@
+﻿  NeuralNet.cpp
+NeuralNet.obj : error LNK2019: symbole externe non résolu "public: void __thiscall Neuron::setOutputValue(double)" (?setOutputValue@Neuron@@QAEXN@Z) référencé dans la fonction "public: __thiscall NeuralNet::NeuralNet(class std::vector<unsigned int,class std::allocator<unsigned int> > const &)" (??0NeuralNet@@QAE@ABV?$vector@IV?$allocator@I@std@@@std@@@Z)
+C:\Users\vfots\source\repos\NeuralNet\Debug\NeuralNet.exe : fatal error LNK1120: 1 externes non résolus
